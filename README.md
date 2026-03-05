@@ -93,6 +93,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
+## Enfoque de Desarrollo
+
+Este proyecto ha sido desarrollado con el apoyo de herramientas de Inteligencia Artificial. Mi enfoque no consiste únicamente en generar código mediante IA, sino en comprender profundamente cada sugerencia, analizar su impacto y ajustar la lógica para que se alinee con mis estándares de calidad y las necesidades específicas del desarrollo. Considero que la verdadera potencia reside en la colaboración entre la eficiencia de la IA y el criterio crítico del desarrollador.
+
 ## License
+
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
